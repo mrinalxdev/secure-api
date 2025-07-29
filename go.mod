@@ -7,6 +7,7 @@ toolchain go1.23.11
 require (
 	github.com/golang-jwt/jwt/v5 v5.2.3 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
+	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/mattn/go-sqlite3 v1.14.22 // indirect
